@@ -11,7 +11,7 @@ My name is Realeboga Moatshe. I'm passionate about building web applications and
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Angular
-- **Backend:** Spring Boot, Node.js
+- **Backend:** Java, Spring Boot, Node.js
 - **Databases:** PostgreSQL
 - **Tools & Platforms:** Git, AWS, Redis, Jest
 
