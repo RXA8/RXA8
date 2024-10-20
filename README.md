@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm an Aspiring Full-Stack Developer
+# Hi there! 👋 
 
-I'm passionate about building web applications and solving complex problems with code. I love tackling new challenges and continuously improving my skills across both frontend and backend development.
+My name is Realeboga Moatshe. I'm passionate about building web applications and solving complex problems with code. I love tackling new challenges and continuously improving my skills across both frontend and backend development.
 
 ### 🌟 About Me
 - 💻 Full-stack software developer with a focus on **modern web technologies**.
