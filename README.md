@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm an Aspiring Full-Stack Developer
 
+I'm passionate about building web applications and solving complex problems with code. I love tackling new challenges and continuously improving my skills across both frontend and backend development.
 
-**RXA8/RXA8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 💻 Full-stack software developer with a focus on **modern web technologies**.
+- 🔧 Proficient in **Java**, **JavaScript**, **C++**, **PHP**, **HTML**, **CSS**, **Angular**, **Node.js**, **SQL**, and **Spring Boot**.
+- 🧠 Good problem-solving skills, honed through real-world projects.
+- 🎮 Avid **gamer** and sports enthusiast — I love how gaming and sports keep my competitive spirit alive and push me to excel in my work.
+- 🚀 Always learning, always growing.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Backend:** Spring Boot, Node.js
+- **Databases:** PostgreSQL
+- **Tools & Platforms:** Git, AWS, Redis, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 What I'm Learning
+- Deepening my knowledge of **cloud computing** and **microservices** architecture.
 
+### 📈 Currently Working On
+- Final year Computer Science student at the University of Pretoria
+
+### 🎮 Hobbies
+When I'm not coding, you can find me:
+- Competing in online multiplayer games, like FIFA, Fortnite and COD🎮
+- Five a side ⚽ 
+
+### 📫 Contact Me
+- Feel free to reach out to me via email: [u19029269@tuks.co.za](mailto:u19029269@tuks.co.za)
+
+---
+
+Thanks for stopping by! 😄
