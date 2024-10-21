@@ -28,6 +28,8 @@ When I'm not coding, you can find me:
 
 ### 📫 Contact Me
 - Feel free to reach out to me via email: [u19029269@tuks.co.za](mailto:u19029269@tuks.co.za)
+- [Download my CV](https://drive.google.com/file/d/1OBuvcWl2SE66YwrhuGTsvwYMXZ1p0YHM/view?usp=drive_link)
+
 
 ---
 
